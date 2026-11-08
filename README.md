@@ -12,7 +12,7 @@ Anyone can add this catalog. Each paid plugin lives in its own private repositor
 | Plugin | What it does | Price | Get it |
 |---|---|---|---|
 | `ghost` | Your ghostwriter: learns your voice, then replies, writes and rewrites in it. Always a draft. | TBD | [sebwilgosz.com/products/ghost](https://sebwilgosz.com/products/ghost) |
-| `executor` | Spec in, a stack of reviewed PRs out. Today: reviews every PR, verifies each finding, fixes the confirmed bugs. Works best with gh stack. | Free (MIT) | [sebwilgosz.com/products/executor](https://sebwilgosz.com/products/executor) |
+| `executor` | Spec in, a stack of reviewed PRs out. It builds each PR, reviews it, verifies every finding and fixes the confirmed bugs. Works best with gh stack. | Free (MIT) | [sebwilgosz.com/products/executor](https://sebwilgosz.com/products/executor) |
 | `cvo` | Chief Visual Officer: audits your visual brand library, builds characters, objects and locations, draws, edits and validates images, designs comic issues. | TBD | — |
 
 Updates: `/plugin marketplace update engineer-of-wealth`.
