@@ -5,19 +5,9 @@
     "url": "https://sebwilgosz.com"
   },
   "metadata": {
-    "description": "Engineer of Wealth: agent plugins for builders who ship and want to sell. Paid plugins need a purchase; the buy link is on each plugin's page."
+    "description": "Engineer of Wealth: agent plugins for builders who ship and want to sell."
   },
   "plugins": [
-    {
-      "name": "ghost",
-      "source": {
-        "source": "github",
-        "repo": "sebwilgosz/agent-ghost"
-      },
-      "description": "Your ghostwriter. Learns your voice from 3-5 messages you wrote, then replies, writes and rewrites in it. Always a draft, never sent. Requires purchase.",
-      "homepage": "https://sebwilgosz.com/products/ghost",
-      "category": "productivity"
-    },
     {
       "name": "executor",
       "source": {
@@ -27,15 +17,6 @@
       "description": "Spec in, a stack of reviewed PRs out. It builds each PR, reviews it, verifies every finding with its own agent and fixes the confirmed bugs. Works best with gh stack. Free, MIT.",
       "homepage": "https://sebwilgosz.com/products/executor",
       "category": "development"
-    },
-    {
-      "name": "cvo",
-      "source": {
-        "source": "github",
-        "repo": "sebwilgosz/agent-cvo"
-      },
-      "description": "Chief Visual Officer: keeps your visual brand library in order. Audits it, builds characters, objects and locations from its templates, draws and edits scenes, validates every image in a fresh context, designs comic issues, and draws data figures on blueprint sheets. Requires purchase.",
-      "category": "design"
     }
   ]
 }
